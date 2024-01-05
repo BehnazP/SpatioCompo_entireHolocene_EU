@@ -32,7 +32,9 @@ The `.csv` files in Land-cover Maps folder
 24. Land_Cover_11000.csv
 25. Land_Cover_11500.csv
 
-based on the results in X (https://arxiv.org/)
+based on the results in 
+Githumbi, E., Pirzamanbein, B., Lindström, J., Poska, A., Fyfe, R., Mazier, F., ... & Gaillard, M. J. (2022). Pollen-Based Maps of Past Regional Vegetation Cover in Europe Over 12 Millennia—Evaluation and Potential. Frontiers in Ecology and Evolution, 10, 795794. (https://doi.org/10.3389/fevo.2022.795794)
+
 
 The columns represent
 * Lon: longitude
