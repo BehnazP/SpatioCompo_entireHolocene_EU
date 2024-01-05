@@ -33,7 +33,8 @@ The `.csv` files in Land-cover Maps folder
 25. Land_Cover_11500.csv
 
 based on the results in 
-Githumbi, E., Pirzamanbein, B., Lindström, J., Poska, A., Fyfe, R., Mazier, F., ... & Gaillard, M. J. (2022). Pollen-Based Maps of Past Regional Vegetation Cover in Europe Over 12 Millennia—Evaluation and Potential. Frontiers in Ecology and Evolution, 10, 795794. (https://doi.org/10.3389/fevo.2022.795794)
+
+Githumbi, E., Pirzamanbein, B., Lindström, J., Poska, A., ... & Gaillard, M. J. (2022). Pollen-Based Maps of Past Regional Vegetation Cover in Europe Over 12 Millennia—Evaluation and Potential. Frontiers in Ecology and Evolution, 10, 795794. (https://doi.org/10.3389/fevo.2022.795794)
 
 
 The columns represent
@@ -49,7 +50,8 @@ KK10LonLatElev in the name indicate the covariates used in the model.
 ### Reference:
 * Pirzamanbein, Behnaz, Johan Lindström, Anneli Poska, and Marie-José Gaillard. "Modelling Spatial Compositional Data: Reconstructions of past land cover and uncertainties." Spatial statistics 24 (2018): 14-31. (https://doi.org/10.1016/j.spasta.2018.03.005)
 * Pirzamanbein, Behnaz, Anneli Poska, and Johan Lindström. "Bayesian Reconstruction of Past Land Cover From Pollen Data: Model Robustness and Sensitivity to Auxiliary Variables." Earth and Space Science 7, no. 1 (2020): e2018EA00057. (https://doi.org/10.1029/2018EA000547)
-* The related paper.
+* Githumbi, E., Pirzamanbein, B., Lindström, J., Poska, A., Fyfe, R., Mazier, F., ... & Gaillard, M. J. (2022). Pollen-Based Maps of Past Regional Vegetation Cover in Europe Over 12 Millennia—Evaluation and Potential. Frontiers in Ecology and Evolution, 10, 795794. (https://doi.org/10.3389/fevo.2022.795794)
+
 
 ### Licenses
 #### Data
